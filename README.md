@@ -1,5 +1,3 @@
-# Python
-
 <h1>Python OOPs Concepts</h1>
 
 <i>
